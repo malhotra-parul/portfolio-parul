@@ -12,5 +12,7 @@ export const Brand = styled.a`
 
   @media (max-width: 960px) {
     mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
+    font-size: 14pt;
+    margin-left: 1rem;
   }
 `;

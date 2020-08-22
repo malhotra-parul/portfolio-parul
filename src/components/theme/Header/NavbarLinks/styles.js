@@ -7,6 +7,7 @@ export const Wrapper = styled.div`
 
 		@media (max-width: 960px) {
 			color: ${({ theme }) => (theme === 'light' ? '#000' : '#fff')};
+			font-size: 14pt;
 		}
   }
 

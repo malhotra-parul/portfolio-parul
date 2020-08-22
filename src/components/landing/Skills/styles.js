@@ -38,13 +38,18 @@ export const Details = styled.div`
     }
   }
 
-  .p-container{
+  p{
+    font-size: 14pt;
+  }
 
+  .p-container{
+    
     margin-bottom: 20pt;
   }
 
   p > a{
     color: #2686f6;
+    
   }
 
   p >a:hover{
@@ -60,6 +65,9 @@ export const Details = styled.div`
     text-decoration: underline;
     font-size: 12pt;
     color: #a09b9b;
+    @media (max-width: 960px) {
+      font-size: 16pt;
+    }
   }
 
   div > p {
@@ -72,6 +80,7 @@ export const Details = styled.div`
 
     @media (max-width: 960px) {
       mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
+      font-size: 14pt;
     }
   }
 `;
