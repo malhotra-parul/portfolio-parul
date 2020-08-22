@@ -57,7 +57,7 @@ export const Details = styled.div`
   }
 
   p > em {
-    color: #f8cc48;
+    color: ${({ theme }) => (theme === 'dark' ? '#f8cc48' : '#ee5861')};
   }
 
   h5 {
