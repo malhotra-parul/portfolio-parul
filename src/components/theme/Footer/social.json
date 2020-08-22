@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/malhotra-parul",
+    "icon": "/icons/github.svg"
+  },
+  {
+    "id": 1,
+    "name": "Medium",
+    "link": "https://medium.com/@parulm.business",
+    "icon": "/icons/medium.svg"
+  },
+  {
+    "id": 2,
+    "name": "Twitter",
+    "link": "https://twitter.com/malhotra_parul",
+    "icon": "/icons/twitter.svg"
+  }
+]
