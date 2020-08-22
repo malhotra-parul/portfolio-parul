@@ -45,7 +45,7 @@ export default () => (
     }}
   >
     {({ values, touched, errors, isSubmitting }) => (
-      <Form>
+      <Form action="https://formspree.io/myynanvl" method="POST">
         <InputField>
           <Input
             as={FastField}
