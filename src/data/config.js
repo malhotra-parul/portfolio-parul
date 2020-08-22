@@ -1,6 +1,6 @@
 module.exports = {
   defaultTitle: 'Parul Malhotra',
-  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
+  logo: '../../static/favicon/favicon.ico',
   author: 'Parul Malhotra',
   url: 'https://parul-malhotra.vercel.app/',
   legalName: 'Parul Malhotra',
