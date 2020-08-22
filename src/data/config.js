@@ -2,7 +2,7 @@ module.exports = {
   defaultTitle: 'Parul Malhotra',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Parul Malhotra',
-  url: 'https://portfolio.parul.com',
+  url: 'https://parul-malhotra.vercel.app/',
   legalName: 'Parul Malhotra',
   defaultDescription: 'I am a self-taught MERN stack developer.',
   socialLinks: {
