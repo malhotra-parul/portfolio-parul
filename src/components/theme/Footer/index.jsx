@@ -16,7 +16,9 @@ export const Footer = () => (
           by{' '}
           <a href="https://smakosh.com/?ref=portfolio-dev" rel="noopener noreferrer" target="_blank">
             Parul
-          </a>
+          </a>{' '}
+          and {' '}
+          <a href="https://www.gatsbyjs.com/starters/smakosh/gatsby-portfolio-dev/">Gatsby</a>
         </span>
       </Details>
       <Links>
