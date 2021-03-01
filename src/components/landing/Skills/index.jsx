@@ -23,7 +23,7 @@ export const Skills = () => {
             </p>
             <h5>2020</h5>
             <p>
-              1. Built an Oauth app using <a href="https://github.com/malhotra-parul/github-users-app">Github</a>.
+              1. Built a website to analyze the <a href="https://github.com/malhotra-parul/schools-connectivity-data-viz-react">connectivity of schools across Bangalore</a>, on the basis of parameters like connectivity with bus routes using openCity dataset. Visualization done using React. Backend built using MongoDb.
             </p>
             <p>
               2. Built a <a href="https://dashboard-in-react.vercel.app/">dashboard</a> in React.
@@ -47,17 +47,7 @@ export const Skills = () => {
             <h5>2019</h5>
             <p>7. Joined an online bootcamp to pursue my interest in development.</p>
             <p>
-              8. Joined <em>Milkbasket.com</em> as an SDET - 2.
-            </p>
-            <h5>2016-2018</h5>
-            <p>9. Pursued entreprenurship.</p>
-            <h5>2014</h5>
-            <p>
-              10. Joined <em>Makemytrip.com</em> as a QA Analyst.
-            </p>
-            <h5>2011</h5>
-            <p>
-              11. Joined <em>Tata Consultancy Services</em> as a Software Engineer.
+              8. Joined <em>Milkbasket.com</em> as an SDET.
             </p>
           </div>
           <Button as={AnchorLink} href="#contact">
